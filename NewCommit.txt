@@ -1,1 +1,2 @@
 This is a new file to be added with the multiple commits.
+Modified file to be commited.
