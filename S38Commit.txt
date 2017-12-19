@@ -3,3 +3,4 @@ Here are some more changes.
 Here is a commit with changes to multiple files and adding a new one.
 Test #5
 Test #9
+Test 10
