@@ -2,4 +2,4 @@ This is a text file which I commited.
 Here are some more changes.
 Here is a commit with changes to multiple files and adding a new one.
 Test #5
-Test #8
+Test #9
