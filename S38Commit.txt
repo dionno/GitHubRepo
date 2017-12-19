@@ -4,4 +4,4 @@ Here is a commit with changes to multiple files and adding a new one.
 Test #5
 Test #9
 Test 10
-Teest #11 7
+Test #11 & #7
